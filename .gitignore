@@ -125,3 +125,6 @@ dmypy.json
 
 # Mac
 .DS_Store
+
+# Secrets
+secrets*
